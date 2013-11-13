@@ -6,7 +6,7 @@ version:             0.1.0.0
 synopsis:            A Haskell port of the magician gem for Ruby.
 -- description:         
 license:             MIT
-license-file:        LICENSE
+license-file:        LICENSE.txt
 author:              Nicolas McCurdy
 maintainer:          thenickperson@gmail.com
 -- copyright:           
